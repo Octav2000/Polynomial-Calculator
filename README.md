@@ -1,1 +1,1 @@
-# Polynomial-Calculator
+Acesta este un calculator ce efectueaza operatiile de adunare, scadere, inmultire, impartire, derivare si integrare pe polinoame. In fisierul README.docx este prezentata ideea implementarii si descrierea fiecarei clase si a metodelor acestora.
